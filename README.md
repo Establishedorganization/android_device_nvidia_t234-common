@@ -1,3 +1,12 @@
+# README URLs
+https://developer.nvidia.com/embedded/downloads
+https://forums.developer.nvidia.com/t/cannt-fuse-t234/231688
+https://www.nvidia.com/content/dam/en-zz/Solutions/gtcf21/jetson-orin/nvidia-jetson-agx-orin-technical-brief.pdf
+https://docs.nvidia.com/jetson/archives/r35.1/DeveloperGuide/text/HR/JetsonModuleAdaptationAndBringUp/JetsonAgxOrinSeries.html
+https://forums.developer.nvidia.com/t/add-new-sensor-driver-with-orin-nx-t234/293673
+
+https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/
+
 # Common Device configuration for Nvidia Tegra Orin
 
 ## Spec Sheet
